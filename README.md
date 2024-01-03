@@ -1,5 +1,5 @@
 # Solution for Grokking Algorithms, Second Edition
-This repository contains solutions to exercises from 'Grokking Algorithms' by Aditya Y. Bhargava.
+This repository contains solutions to exercises from 'Grokking Algorithms' (second edition MEAP version 4) by Aditya Y. Bhargava.
 ![cover](assets/Bhargava-MEAP-HI.png)
 
 ## Chapter 7
