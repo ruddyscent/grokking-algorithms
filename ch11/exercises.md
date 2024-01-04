@@ -4,7 +4,7 @@
 With iPhone (\$2,000), Guitar (\$1,500), and MP3 (\$1,000), you can maximize the value of the loot to \$4,500.
 
 ### 11.2
-Water (3lb, 10), food (2lb, 9), camera (1lb, 6) is the optimal combination with value of 25.
+You should take water (3lb, 10), food (2lb, 9), camera (1lb, 6) is the optimal combination with value of 25.
 |      |1    |2    |3       |4       |5         |6         |
 |------|-----|-----|--------|--------|----------|----------|
 |water |0    |0    |10 (w)  |10 (w)  |10 (w)    |10 (w)    |

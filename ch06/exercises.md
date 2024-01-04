@@ -23,5 +23,4 @@ The option B is valid schedule.
 7. Pack lunch
 
 ### 6.5
-The options A and C are trees. However, the option B contains a loop and is not a tree.
-
+The options "A" and "C" are trees. However, the option "B" contains a loop and is not a tree.
